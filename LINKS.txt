@@ -1,4 +1,0 @@
-Form1=
-https://docs.google.com/spreadsheets/d/1kF7_9p6z3OweCc68HAJnUb0_ClPf4TNdZ1CS5JWinlE/edit#gid=0
-Form2=
-https://docs.google.com/spreadsheets/d/1EsI-EdELqxdNKlmy8a3todvbtu2pfUARzLFpLB6b_2A/edit#gid=0
