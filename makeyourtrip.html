@@ -90,14 +90,6 @@
 </head>
 
 <body>
-    <script>
-        function clicking(){
-            alert("THANKS FOR INFO.....TEAM WILL CONTACT YOU SHORTLY REGARDING PACKAGES THAT MATCHES YOUR INFO");
-        }
-        function clicks2(){
-            alert("GETTING BACK TO HOME PAGE");
-        }
-    </script>
     <div class="mainbox">
         <div class="right">
             <p style="width:100%;"><img src="myt.jpg" id="amused" alt=""><img src="jet.jpg" id="amused1" alt="">
@@ -117,7 +109,7 @@
                         class="parapics" alt="">
                     <img src="p3.png" class="parapics" alt=""><img src="p4.png" class="parapics" alt="">
             </p>
-            GET BACK TO HOME PAGE :::=<a  href="feed.html" onclick="clicks2()"><button >HOME PAGE</button></a></span>
+            GET BACK TO HOME PAGE :::=<a  href="index.html" onclick="clicks2()"><button >HOME PAGE</button></a></span>
         </div>
         <div class="left">
             <div class="topleft">
@@ -163,7 +155,13 @@
             .then(() => {  window.location.reload(); })
             .catch(error => console.error('Error!', error.message))
         })
-      </script>
+        function clicking(){
+            alert("THANKS FOR INFO.....TEAM WILL CONTACT YOU SHORTLY REGARDING PACKAGES THAT MATCHES YOUR INFO");
+        }
+        function clicks2(){
+            alert("GETTING BACK TO HOME PAGE");
+        }
+    </script>
 </body>
 
 </html>
